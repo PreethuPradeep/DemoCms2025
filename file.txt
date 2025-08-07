@@ -1,1 +1,2 @@
 This is an importants session on git.
+This is an importants session on git.
